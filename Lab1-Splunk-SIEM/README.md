@@ -35,28 +35,6 @@ and privilege escalation detection on Ubuntu Linux.
 | MITRE Tactic | T1110 — Brute Force |
 ```
 
-### Step 5 — Scroll down and click "Commit new file"
 
-Write commit message:
-```
-Add Lab1 Splunk SIEM folder and README
-```
-
-Click **Commit new file** ✅
-
----
-
-### Step 6 — Now upload the Splunk docx files into that folder
-
-After committing, you'll be inside `Lab1-Splunk-SIEM/` folder. Now click:
-
-**Add file → Upload files**
-
-Upload these 3 files from your Windows machine:
-- `Splunk_SIEM_Project_Report_Final.docx`
-- `splunk_ftp_log_analysis.docx`
-- `splunkhttplog.docx`
-
-Commit message:
 ```
 Add Splunk SIEM lab reports
