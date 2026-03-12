@@ -35,6 +35,3 @@ and privilege escalation detection on Ubuntu Linux.
 | MITRE Tactic | T1110 — Brute Force |
 ```
 
-
-```
-Add Splunk SIEM lab reports
