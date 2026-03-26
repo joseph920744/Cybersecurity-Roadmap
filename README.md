@@ -2,7 +2,7 @@
 
 ![Role Target](https://img.shields.io/badge/Role%20Target-SOC%20Analyst-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-joseph920744-black)
+![GitHub](https://img.shields.io/badge/GitHub-paulson--k--babu-black)
 
 > Cybersecurity Enthusiast | SOC Analyst Aspirant
 > Hands-on lab projects focused on SIEM, threat detection,
