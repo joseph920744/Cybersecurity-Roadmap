@@ -258,8 +258,8 @@ Lab5-Splunk-MITRE-ATTandCK-Detection/
 SOC L1 Analyst Candidate | MCA Graduate
 APJ Abdul Kalam Technological University, Kerala, India
 
-[![GitHub](https://img.shields.io/badge/GitHub-joseph920744-black?style=flat-square&logo=github)](https://github.com/joseph920744)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulson--babu-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/paulson-babu-472563215)
+[![GitHub](https://img.shields.io/badge/GitHub-paulson--k--babu-181717?style=flat&logo=github)](https://github.com/paulson-k-babu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulsonkbabu)
 
 ---
 
